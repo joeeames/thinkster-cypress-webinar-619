@@ -9,7 +9,7 @@
     "test": "ng test",
     "build": "ng build --prod",
     "e2e": "ng e2e",
-    "server": "json-server --watch db.json",
+    "server": "json-server --watch db.json --port 3001",
     "ng": "ng"
   },
   "keywords": [],
